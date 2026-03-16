@@ -1,0 +1,3 @@
+/home/hadoop/cheng/testmuduo/build/CMakeFiles/rebuild_cache.dir
+/home/hadoop/cheng/testmuduo/build/CMakeFiles/server.dir
+/home/hadoop/cheng/testmuduo/build/CMakeFiles/edit_cache.dir

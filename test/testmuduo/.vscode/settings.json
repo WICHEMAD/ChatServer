@@ -1,0 +1,9 @@
+{
+    // 关闭所有按键/操作声音反馈
+"audioCues.onCharacterInput": false,
+"audioCues.onCommandFailed": false,
+"audioCues.onDebugBreak": false,
+"audioCues.onFocus": false,
+"audioCues.onRename": false,
+"audioCues.onType": false
+}
